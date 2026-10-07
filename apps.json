@@ -1,0 +1,58 @@
+{
+ "version": 1,
+ "developer": {
+  "ios": "https://apps.apple.com/developer/id1142526356",
+  "android": "https://play.google.com/store/apps/developer?id=MD+App"
+ },
+ "apps": [
+  {
+   "key": "lockpick",
+   "name": "Lock Pick: Tap Master",
+   "icon": "https://mesutdokumaci1.github.io/icons/lockpick.png",
+   "ios": "6819757510", "iosBundle": "dokumaci.LockPick", "android": "com.dokumaci.lockpick",
+   "tagline": {"en": "Crack every lock. One tap at a time.", "tr": "Her kilidi aç. Tek dokunuşla.", "de": "Knacke jedes Schloss. Ein Tipp nach dem anderen.", "es": "Abre cada candado. Un toque a la vez.", "fr": "Crochète chaque cadenas. Une touche à la fois.", "it": "Scassina ogni lucchetto. Un tocco alla volta.", "pt-BR": "Abra cada cadeado. Um toque de cada vez.", "ja": "すべての鍵を開けろ。ワンタップで。", "ko": "모든 자물쇠를 열어라. 한 번의 탭으로.", "ru": "Взломай каждый замок. Одним касанием.", "zh-Hans": "破解每一把锁，一次点击。"}
+  },
+  {
+   "key": "tapfocus",
+   "name": "Tap Focus: Reflex Test",
+   "icon": "https://mesutdokumaci1.github.io/icons/tapfocus.png",
+   "ios": "6755109218", "iosBundle": "dokumaci.TapFocus", "android": "com.dokumaci.tapfocus",
+   "tagline": {"en": "Test your reflexes with one tap", "tr": "Reflekslerini tek dokunuşla test et", "de": "Teste deine Reflexe mit einem Tipp", "es": "Pon a prueba tus reflejos con un toque", "fr": "Teste tes réflexes en une touche", "it": "Metti alla prova i riflessi con un tocco", "pt-BR": "Teste seus reflexos com um toque", "ja": "ワンタップで反射神経をテスト", "ko": "한 번의 탭으로 반사신경 테스트", "ru": "Проверь реакцию одним касанием", "zh-Hans": "一触测试你的反应力"}
+  },
+  {
+   "key": "memoryorbit",
+   "name": "Memory Orbit: Brain Game",
+   "icon": "https://mesutdokumaci1.github.io/icons/memoryorbit.png",
+   "ios": "6755328965", "iosBundle": "dokumaci.MemoryOrbit",
+   "tagline": {"en": "Remember the route, train your brain", "tr": "Rotayı hatırla, beynini çalıştır", "de": "Merke dir die Route, trainiere dein Gehirn", "es": "Recuerda la ruta, entrena tu cerebro", "fr": "Retiens le parcours, entraîne ton cerveau", "it": "Ricorda il percorso, allena il cervello", "pt-BR": "Lembre a rota, treine seu cérebro", "ja": "ルートを覚えて脳トレ", "ko": "경로를 기억하고 두뇌를 훈련하세요", "ru": "Запомни маршрут, тренируй мозг", "zh-Hans": "记住路线，锻炼大脑"}
+  },
+  {
+   "key": "woodrise",
+   "name": "Woodrise",
+   "icon": "https://mesutdokumaci1.github.io/icons/woodrise.png",
+   "ios": "6797024502", "iosBundle": "dokumaci.Woodrise",
+   "tagline": {"en": "Wooden block puzzle of gravity and timing", "tr": "Yerçekimi ve zamanlama ile ahşap blok bulmacası", "de": "Holzblock-Puzzle mit Schwerkraft und Timing", "es": "Puzle de bloques de madera con gravedad y ritmo", "fr": "Puzzle de blocs en bois, gravité et timing", "it": "Puzzle di blocchi di legno tra gravità e tempismo", "pt-BR": "Quebra-cabeça de blocos de madeira com gravidade", "ja": "重力とタイミングの木製ブロックパズル", "ko": "중력과 타이밍의 나무 블록 퍼즐", "ru": "Деревянные блоки: гравитация и тайминг", "zh-Hans": "重力与时机的木块益智游戏"}
+  },
+  {
+   "key": "nutlens",
+   "name": "Nutlens – AI Food Analysis",
+   "icon": "https://mesutdokumaci1.github.io/icons/nutlens.png",
+   "android": "com.dokumaci.nutlensai",
+   "tagline": {"en": "Snap your meal, see the nutrition", "tr": "Yemeğini çek, besin değerlerini gör", "de": "Fotografiere dein Essen, sieh die Nährwerte", "es": "Fotografía tu comida y ve sus nutrientes", "fr": "Photographie ton repas, vois ses nutriments", "it": "Fotografa il pasto e scopri i valori nutrizionali", "pt-BR": "Fotografe sua refeição e veja os nutrientes", "ja": "食事を撮って栄養をチェック", "ko": "식사를 찍고 영양 정보를 확인하세요", "ru": "Сфотографируй еду и узнай её состав", "zh-Hans": "拍下餐食，查看营养"}
+  },
+  {
+   "key": "travelsafe",
+   "name": "TravelSafe: Spy Camera Finder",
+   "icon": "https://mesutdokumaci1.github.io/icons/travelsafe.png",
+   "ios": "6758045773", "iosBundle": "com.mesutdokumaci.travelsafe",
+   "tagline": {"en": "Find hidden cameras where you stay", "tr": "Kaldığın yerde gizli kameraları bul", "de": "Finde versteckte Kameras in deiner Unterkunft", "es": "Encuentra cámaras ocultas donde te alojas", "fr": "Détecte les caméras cachées où tu loges", "it": "Trova telecamere nascoste dove alloggi", "pt-BR": "Encontre câmeras escondidas onde você se hospeda", "ja": "宿泊先の隠しカメラを発見", "ko": "숙소의 숨겨진 카메라를 찾아보세요", "ru": "Найди скрытые камеры там, где живёшь", "zh-Hans": "发现住处的隐藏摄像头"}
+  },
+  {
+   "key": "architect",
+   "name": "ARchitect Pocket: Room Scan",
+   "icon": "https://mesutdokumaci1.github.io/icons/architect.png",
+   "ios": "6758917520", "iosBundle": "dokumaci.ArcPocket",
+   "tagline": {"en": "Scan a room, get a floor plan", "tr": "Odayı tara, kat planını al", "de": "Raum scannen, Grundriss erhalten", "es": "Escanea una habitación y obtén el plano", "fr": "Scanne une pièce, obtiens le plan", "it": "Scansiona una stanza, ottieni la planimetria", "pt-BR": "Escaneie um cômodo e obtenha a planta", "ja": "部屋をスキャンして間取り図を作成", "ko": "방을 스캔하고 평면도를 받으세요", "ru": "Отсканируй комнату и получи план", "zh-Hans": "扫描房间，生成平面图"}
+  }
+ ]
+}
